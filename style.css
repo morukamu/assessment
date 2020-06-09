@@ -1,8 +1,10 @@
 table{
   width:1000px;
+  height: 500px;
   margin: auto;
   padding: auto;
   margin-top: 8px;
+  table-layout: fixed; 
   }
 
   .sigoto {
